@@ -1,0 +1,12 @@
+# Configuration file 
+# All configuration of file will be stored here
+
+database:
+  driver: "mysql"
+  host: "localhost"
+  port: 3306
+  user: "user"
+  password: "password"
+  dbname: "cetec"
+restServerConfig: 
+  port: 8080
